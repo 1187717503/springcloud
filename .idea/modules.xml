@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer/EurekaServer7001.iml" filepath="$PROJECT_DIR$/EurekaServer/EurekaServer7001.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServer7002/EurekaServer7002.iml" filepath="$PROJECT_DIR$/EurekaServer7002/EurekaServer7002.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eurekaserver7003/EurekaServer7003.iml" filepath="$PROJECT_DIR$/eurekaserver7003/EurekaServer7003.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServerConsoumer/EurekaServerConsoumer.iml" filepath="$PROJECT_DIR$/EurekaServerConsoumer/EurekaServerConsoumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaServerProvider/EurekaServerProvider.iml" filepath="$PROJECT_DIR$/EurekaServerProvider/EurekaServerProvider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Eurekaapi/Eurekaapi.iml" filepath="$PROJECT_DIR$/Eurekaapi/Eurekaapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/EurekaserverConsoumer-Hystrix-Dashboard/EurekaserverConsoumer-Hystrix-Dashboard.iml" filepath="$PROJECT_DIR$/EurekaserverConsoumer-Hystrix-Dashboard/EurekaserverConsoumer-Hystrix-Dashboard.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../springboot-amq/springboot-amq.iml" filepath="$PROJECT_DIR$/../springboot-amq/springboot-amq.iml" />
+      <module fileurl="file://$PROJECT_DIR$/springcloud.iml" filepath="$PROJECT_DIR$/springcloud.iml" />
+    </modules>
+  </component>
+</project>

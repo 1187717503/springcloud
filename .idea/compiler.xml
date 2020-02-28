@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="Eurekaapi" />
+        <module name="EurekaServer" />
+        <module name="EurekaServer7001" />
+        <module name="EurekaServer7002" />
+        <module name="eurekaserver7003" />
+        <module name="EurekaServer7003" />
+        <module name="EurekaServerConsoumer" />
+        <module name="EurekaserverConsoumer-Hystrix-Dashboard" />
+        <module name="EurekaServerProvider" />
+        <module name="springboot-amq" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="Eurekaapi" target="1.5" />
+      <module name="EurekaServer" target="1.8" />
+      <module name="EurekaServer7001" target="1.8" />
+      <module name="EurekaServer7002" target="1.8" />
+      <module name="eurekaserver7003" target="1.8" />
+      <module name="EurekaServer7003" target="1.8" />
+      <module name="EurekaServerConsoumer" target="1.8" />
+      <module name="EurekaserverConsoumer-Hystrix-Dashboard" target="1.8" />
+      <module name="EurekaServerProvider" target="1.8" />
+      <module name="springboot-amq" target="1.8" />
+      <module name="springcloud" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
