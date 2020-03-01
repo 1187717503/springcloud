@@ -16,6 +16,7 @@
         <module name="EurekaserverConsoumer-Hystrix-Dashboard" />
         <module name="EurekaServerProvider" />
         <module name="springboot-amq" />
+        <module name="springsecurity" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -30,6 +31,7 @@
       <module name="EurekaServerProvider" target="1.8" />
       <module name="springboot-amq" target="1.8" />
       <module name="springcloud" target="1.5" />
+      <module name="springsecurity" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
